@@ -5,7 +5,7 @@ function main() {
    'use strict';
 
 	// Hide .navbar first
-	$(".navbar").hide();
+	// $(".navbar").hide();
 	
 	// Fade in .navbar
 	$(function () {
