@@ -174,8 +174,8 @@ hr {
 	vertical-align: middle;
 }
 #intro .intro-body H1 {
-	font-size: 12vh;
-	font-weight: 650;
+	font-size: 10vh;
+	font-weight: 620;
 	color: rgba(255,255,255,0.8);
 	text-transform: uppercase;
 }
