@@ -162,7 +162,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	/*background: url(../img/intro-bg.jpg) no-repeat center center fixed;*/
+	background: url(../img/intro-bg.jpg) no-repeat center center fixed;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -175,7 +175,7 @@ hr {
 }
 #intro .intro-body H1 {
 	font-size: 9vh;
-	font-weight: 610;
+	font-weight: 620;
 	color: rgba(255,255,255,0.8);
 	text-transform: uppercase;
 }
@@ -259,7 +259,7 @@ hr {
 /* Services Section */
 #services {
 	padding: 140px 0;
-	background: url(../img/services-bg.jpg);
+	background: url(../img/services-bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 	background-attachment: fixed;
 }
