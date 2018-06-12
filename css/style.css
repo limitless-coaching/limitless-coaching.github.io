@@ -226,6 +226,9 @@ hr {
 #about .about-text {
 	margin-left: 10px;
 }
+.abt{
+	font-size: 14px;
+}
 #about H4 {
 	font-size: 20px;
 }
